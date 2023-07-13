@@ -1,0 +1,15 @@
+@media(max-width:600px){
+    .carddiv{
+      display:flex;
+      flex-direction: column;
+      text-align: center;
+    }
+    .carddiv img{
+        width:50px;
+    }
+    .carddiv h2{
+        display:block;
+        margin:0 auto;
+        text-align: center;
+    }
+}
